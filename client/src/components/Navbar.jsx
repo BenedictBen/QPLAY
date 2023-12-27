@@ -46,7 +46,7 @@ const MobileNav = () => {
 						<BiMusic color="inherit" size={30} />
 
 						<Heading as="h1" fontWeight="semibold" fontSize="2xl">
-							BeatBox
+							QPLAY
 						</Heading>
 					</Flex>
 				</Link>
